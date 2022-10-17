@@ -1,0 +1,122 @@
+.myUL li a:hover {
+  color: blue !important;
+  opacity: 0.8;
+}
+.myUL li a {
+  font-size: 20px !important;
+  color: black;
+  opacity: 0.9;
+}
+.login {
+  position: relative;
+  top: 15px;
+}
+.Sign-Up {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 20px;
+}
+.sec-1 {
+  display: flex;
+  text-align: center;
+}
+.my-heading {
+  font-size: 48px;
+  position: relative;
+  top: 100px;
+}
+.my-pera {
+  font-size: 23px;
+  position: relative;
+  top: 120px;
+}
+.my-trial {
+  opacity: 0.8;
+  color: gray;
+  position: relative;
+  top: 200px;
+}
+.my-input {
+  position: relative;
+  top: 160px;
+  font-size: 20px;
+  opacity: 0.8;
+  padding: 18px;
+  width: 330px;
+}
+.my-submit {
+  padding: 18px;
+  position: relative;
+  top: 160px;
+}
+.phone {
+  padding-top: 40px;
+  font-size: 50px;
+}
+.gem {
+  padding-top: 40px;
+  font-size: 50px;
+}
+.speedometer {
+  padding-top: 40px;
+  font-size: 50px;
+  padding-left: 130px;
+}
+#heading1 {
+  text-align: center;
+  position: relative;
+  bottom: 100px;
+  left: 200px;
+}
+.img {
+  padding: 200px;
+}
+.card-1 {
+  margin-left: 100px;
+}
+.myimg-1 {
+  background-color: #fff !important;
+}
+.gift {
+  font-size: 50px;
+}
+.heart {
+  font-size: 50px;
+  color: orangered;
+}
+.award {
+  font-size: 50px;
+}
+.basket {
+  font-size: 50px;
+  color: orangered;
+}
+.bell {
+  font-size: 50px;
+  color: orange;
+}
+.team02 {
+  padding-left: 370px;
+}
+.team03 {
+  padding-left: 740px;
+  border-radius: 30px;
+}
+.button {
+  font-size: 20px;
+}
+.twitter {
+  background-color: deepskyblue;
+  width: 50px;
+  padding: 10px;
+  border-radius: 50px;
+}
+.insta {
+  background-color: red;
+  width: 50px;
+  padding: 10px;
+  border-radius: 50px;
+}
+.myflex {
+  display: inline-flex;
+}
